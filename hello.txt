@@ -1,1 +1,2 @@
 My second GitHub project.
+This will be the second addition to the GitHub project 2 and also masterin the git commit command. Let's see how this goes.
